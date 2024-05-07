@@ -1,0 +1,4 @@
+// TODO: Create Enum for ItemTypes
+// TODO: Create field in storage row for ItemTypes Enum
+
+// This will be used to reserve a storageRow for only certian Items
